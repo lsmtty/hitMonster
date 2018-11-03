@@ -1,3 +1,4 @@
+import postion from '../other/position'
 /**
  * 根据目标位置 获取旋转角度
  * @param {*} a 起始坐标
